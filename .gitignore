@@ -1,14 +1,14 @@
-COVID-19_Vaccinations_in_the_United_States_County.csv
-covid_confirmed_usafacts.csv
-covid_county_population_usafacts.csv
-covid_deaths_usafacts.csv
-county_complete.csv
+input_data/COVID-19_Vaccinations_in_the_United_States_County.csv
+input_data/covid_confirmed_usafacts.csv
+input_data/covid_county_population_usafacts.csv
+input_data/covid_deaths_usafacts.csv
+input_data/county_complete.csv
 .ipynb_checkpoints/
-cases.csv
-cases_pop.csv
-deaths.csv
-deaths_pop.csv
-vax.csv
-vax_no_missing_data.csv
-vax_processed.csv
+data/cases.csv
+data/cases_pop.csv
+data/deaths.csv
+data/deaths_pop.csv
+data/vax.csv
+data/vax_no_missing_data.csv
+data/vax_processed.csv
 

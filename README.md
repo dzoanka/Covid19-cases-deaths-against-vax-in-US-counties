@@ -12,3 +12,5 @@ You can use `readable_data_table` notebook to generate a table with formatted da
 
 In notebook `display_plots_covid_data` you can generate figures which will be saved in `figures` directory. You can specify the minimum and maximum population and then the filtered data will be displayed on the plot. You can specify the beginning of the period and end (as you did in `Vax_cases_deaths` notebook) or pick a custom name. The information will appear in the filename of the figures.
 
+The `population_distribution` notebook shows the plots which visualize the distribution of `population` and `population density` in the data.
+

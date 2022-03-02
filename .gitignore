@@ -11,4 +11,4 @@ data/deaths_pop.csv
 data/vax.csv
 data/vax_no_missing_data.csv
 data/vax_processed.csv
-
+figures/*

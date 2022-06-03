@@ -1,0 +1,167 @@
+Ski resorts
+______
+1. Summit County - Colorado [FIPS: 08117]
+New cases in April 272
+Fully vaccinated 1st April 5.8
+---
+New cases 15 December to 15 January272
+Fully vaccinated 15th December 80.0
+Booster 15th December 32.2
+______
+2. Eagle County - Colorado [FIPS: 08037]
+New cases in April 459
+Fully vaccinated 1st April 7.3
+---
+New cases 15 December to 15 January459
+Fully vaccinated 15th December 77.4
+Booster 15th December 32.4
+______
+3. Pitkin County - Colorado [FIPS: 08097]
+New cases in April 123
+Fully vaccinated 1st April 3.9
+---
+New cases 15 December to 15 January123
+Fully vaccinated 15th December 78.1
+Booster 15th December 34.9
+______
+4. San Miguel County - Colorado [FIPS: 08113]
+New cases in April 23
+Fully vaccinated 1st April 10.8
+---
+New cases 15 December to 15 January23
+Fully vaccinated 15th December 77.9
+Booster 15th December 43.9
+______
+5. Summit County - Utah [FIPS: 49043]
+New cases in April 167
+Fully vaccinated 1st April 18.9
+---
+New cases 15 December to 15 January167
+Fully vaccinated 15th December 81.6
+Booster 15th December 33.9
+______
+6. Teton County - Wyoming [FIPS: 56039]
+New cases in April 112
+Fully vaccinated 1st April 26.0
+---
+New cases 15 December to 15 January112
+Fully vaccinated 15th December 87.2
+Booster 15th December 35.4
+______
+7. Gallatin County and[FIPS: 30031]
+New cases in April 1248
+Fully vaccinated 1st April 14.8
+---
+New cases 15 December to 15 January1248
+Fully vaccinated 15th December 55.4
+Booster 15th December 36.7
+______
+ Madison County - Montana [FIPS: 30057]
+New cases in April 54
+Fully vaccinated 1st April 16.7
+---
+New cases 15 December to 15 January 54
+Fully vaccinated 15th December 42.6
+Booster 15th December 43.9
+______
+8. Fresno County - Pallisades California [FIPS: 06019]
+New cases in April 1645
+Fully vaccinated 1st April 15.0
+---
+New cases 15 December to 15 January1645
+Fully vaccinated 15th December 55.7
+Booster 15th December 26.0
+______
+9. Blaine County -  Idaho [FIPS: 16013]
+New cases in April 95
+Fully vaccinated 1st April 28.5
+---
+New cases 15 December to 15 January95
+Fully vaccinated 15th December 70.1
+Booster 15th December 40.7
+______
+10. Taos County - New Mexico [FIPS: 35055]
+New cases in April 38
+Fully vaccinated 1st April 16.3
+---
+New cases 15 December to 15 January38
+Fully vaccinated 15th December 77.9
+Booster 15th December 43.7
+
+
+
+**************************************************
+
+Universities
+______
+1. Santa Clara County - California - Stanford [06085]
+New cases in April 3090
+Fully vaccinated 1st April 18.5
+---
+New cases 15 December to 15 January3090
+Fully vaccinated 15th December 80.1
+Booster 15th December 38.5
+______
+2. St. Clair County - Michigan - Yale [26147]
+New cases in April 5013
+Fully vaccinated 1st April 13.2
+---
+New cases 15 December to 15 January5013
+Fully vaccinated 15th December 47.2
+Booster 15th December 34.2
+______
+3. Mercer County - New Jersey - Princeton [34021]
+New cases in April 2260
+Fully vaccinated 1st April 13.7
+---
+New cases 15 December to 15 January2260
+Fully vaccinated 15th December 65.1
+Booster 15th December 33.8
+______
+4. Alameda County - California - Berkeley [06001]
+New cases in April 2677
+Fully vaccinated 1st April 21.6
+---
+New cases 15 December to 15 January2677
+Fully vaccinated 15th December 75.6
+Booster 15th December 35.8
+______
+5. Pasadena - Los Angeles County, California - CalTech [06037]
+New cases in April 11052
+Fully vaccinated 1st April 16.2
+---
+New cases 15 December to 15 January11052
+Fully vaccinated 15th December 66.1
+Booster 15th December 30.2
+______
+6. Tompkins County - New York - Cornell [36109]
+New cases in April 227
+Fully vaccinated 1st April 19.1
+---
+New cases 15 December to 15 January227
+Fully vaccinated 15th December 75.9
+Booster 15th December 34.9
+______
+7. Champaign County - Illinois - Univ Illin [17019]
+New cases in April 1214
+Fully vaccinated 1st April 24.1
+---
+New cases 15 December to 15 January1214
+Fully vaccinated 15th December 60.3
+Booster 15th December 39.8
+______
+8. Tippecanoe County - Indiana - Purdue [18157]
+New cases in April 1239
+Fully vaccinated 1st April 13.0
+---
+New cases 15 December to 15 January1239
+Fully vaccinated 15th December 54.5
+Booster 15th December 31.4
+______
+9. Charlottesville - Virginia - UVa [51540]
+New cases in April 162
+Fully vaccinated 1st April 0.8
+---
+New cases 15 December to 15 January162
+Fully vaccinated 15th December 49.6
+Booster 15th December 6.4

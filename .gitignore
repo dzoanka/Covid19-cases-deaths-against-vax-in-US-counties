@@ -3,6 +3,7 @@ input_data/covid_confirmed_usafacts.csv
 input_data/covid_county_population_usafacts.csv
 input_data/covid_deaths_usafacts.csv
 input_data/county_complete.csv
+input_data/*
 .ipynb_checkpoints/
 data/cases.csv
 data/cases_pop.csv
